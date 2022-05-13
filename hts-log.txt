@@ -1,0 +1,19 @@
+HTTrack3.49-2 launched on Fri, 13 May 2022 11:35:56 at supesutoken.wpcomstaging.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w supesutoken.wpcomstaging.com -O "/Users/oneilbenjamin/websites/wptest5" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:35:57	Warning: 	Moved Permanently for supesutoken.wpcomstaging.com/robots.txt
+11:35:57	Warning: 	Redirected link is identical because of 'URL Hack' option: supesutoken.wpcomstaging.com/robots.txt and https://supesutoken.wpcomstaging.com/robots.txt
+11:35:57	Warning: 	Warning moved treated for supesutoken.wpcomstaging.com/robots.txt (real one is https://supesutoken.wpcomstaging.com/robots.txt)
+11:35:58	Warning: 	Moved Permanently for supesutoken.wpcomstaging.com/
+11:35:58	Warning: 	Redirected link is identical because of 'URL Hack' option: supesutoken.wpcomstaging.com/ and https://supesutoken.wpcomstaging.com/
+11:35:58	Warning: 	File has moved from supesutoken.wpcomstaging.com/ to https://supesutoken.wpcomstaging.com/
+11:35:58	Warning: 	HTML file (640 bytes) retransferred due to lack of cache: supesutoken.wpcomstaging.com/
+11:35:59	Warning: 	Moved Permanently for supesutoken.wpcomstaging.com/
+11:35:59	Warning: 	Redirected link is identical because of 'URL Hack' option: supesutoken.wpcomstaging.com/ and https://supesutoken.wpcomstaging.com/
+11:35:59	Warning: 	File has moved from supesutoken.wpcomstaging.com/ to https://supesutoken.wpcomstaging.com/
+11:35:59	Warning: 	No data seems to have been transferred during this session! : restoring previous one!
